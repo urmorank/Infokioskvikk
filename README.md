@@ -1,0 +1,2 @@
+# Infokioskvikk
+info kiosk
